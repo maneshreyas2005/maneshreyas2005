@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | AI Enthusiast | IT Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=React.js+%7C+Node.js+%7C+AI+Integration;MySQL+%7C+MongoDB+%7C+TailwindCSS;Full-Stack+Projects+%26+Live+Deployments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=React.js+%7C+Node.js+%7C+AI+Integration;MySQL+%7C+MongoDB+%7C+TailwindCSS;Full-Stack+Projects+%26+Deployments" alt="Typing SVG" />
 </p>
 
 ---
